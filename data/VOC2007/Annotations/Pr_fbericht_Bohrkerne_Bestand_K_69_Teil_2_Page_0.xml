@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pr_fbericht_Bohrkerne_Bestand_K_69_Teil_2_Page_0.png</filename>
+	<path>/Users/steffenschafer/next/next-ocr-service/notebooks/transfer_learning/data/images/Pr_fbericht_Bohrkerne_Bestand_K_69_Teil_2_Page_0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1240</width>
+		<height>1754</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>578</ymin>
+			<xmax>963</xmax>
+			<ymax>1214</ymax>
+		</bndbox>
+	</object>
+</annotation>

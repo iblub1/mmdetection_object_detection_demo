@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pr_fbericht_HW7_Page_0.png</filename>
+	<path>/Users/steffenschafer/next/next-ocr-service/notebooks/transfer_learning/data/images/Pr_fbericht_HW7_Page_0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1241</width>
+		<height>1755</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>625</ymin>
+			<xmax>1069</xmax>
+			<ymax>1251</ymax>
+		</bndbox>
+	</object>
+</annotation>

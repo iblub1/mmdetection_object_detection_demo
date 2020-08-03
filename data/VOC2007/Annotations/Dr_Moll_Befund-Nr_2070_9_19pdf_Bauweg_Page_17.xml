@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Dr_Moll_Befund-Nr_2070_9_19pdf_Bauweg_Page_17.png</filename>
+	<path>/Users/steffenschafer/next/next-ocr-service/notebooks/transfer_learning/data/images/Dr_Moll_Befund-Nr_2070_9_19pdf_Bauweg_Page_17.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1754</width>
+		<height>1241</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>657</ymin>
+			<xmax>1461</xmax>
+			<ymax>987</ymax>
+		</bndbox>
+	</object>
+</annotation>

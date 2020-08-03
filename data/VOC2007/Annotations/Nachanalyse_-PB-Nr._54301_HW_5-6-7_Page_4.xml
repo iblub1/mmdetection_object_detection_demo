@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Nachanalyse_-PB-Nr._54301_HW_5-6-7_Page_4.png</filename>
+	<path>/Users/steffenschafer/next/next-ocr-service/notebooks/transfer_learning/data/images/Nachanalyse_-PB-Nr._54301_HW_5-6-7_Page_4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1240</width>
+		<height>1753</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>664</ymin>
+			<xmax>1127</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+</annotation>
